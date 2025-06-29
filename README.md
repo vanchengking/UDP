@@ -2,23 +2,26 @@
 
 # 计算机网络课程实习
 
-[cite\_start]**姓名：** 高范铖 [cite: 1, 200]
-[cite\_start]**学号：** 230203205 [cite: 1, 200]
-[cite\_start]**班级：** 计算机23-3 [cite: 1, 200]
-[cite\_start]**指导教师：** 齐建东 [cite: 1, 200]
+**姓名：** 高范铖  
+
+**学号：** 230203205  
+
+**班级：** 计算机23-3  
+
+**指导教师：** 齐建东  
+
 
 -----
 
 ## 项目概述
 
-[cite\_start]本项目包含两个基于Python Socket编程的网络课程实习任务，在 **PyCharm 2024.1.4** 环境下开发完成 [cite: 2, 201]。
+本项目包含两个基于Python Socket编程的网络课程实习任务，本部分是Task2，在 **PyCharm 2024.1.4** 环境下开发完成。
 
-  * **Task 1** 实现了一个多线程的TCP服务器，能够接收客户端发送的文本文件，分块进行字符串反转并返回结果。
   * **Task 2** 在UDP之上实现了一个可靠数据传输协议，模拟了TCP的三次握手、四次挥手、Go-Back-N滑动窗口、累积确认以及动态超时重传等机制。
 
 ## Git 仓库地址
 
-[cite\_start][https://github.com/vanchengking/TCP.git](https://github.com/vanchengking/TCP.git) [cite: 12, 214]
+[https://github.com/vanchengking/TCP.git](https://github.com/vanchengking/TCP.git) 
 
 -----
 
