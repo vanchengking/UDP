@@ -27,9 +27,9 @@
 
 ## 1\. 运行环境与依赖
 
-  * **操作系统**: `[请在此处填写您的操作系统，如: Windows 11]`
-  * **Python 版本**: `[请在此处填写您的Python版本, 通过在终端输入 python --version 获取]`
-  * **需要安装的库**: `pandas` (仅Task2的客户端需要)
+  * **操作系统**: `Windows 11`
+  * **Python 版本**: `python 3.12.6（不唯一只是参考）`
+  * **需要安装的库**: `pandas`
       * 安装命令:
         ```bash
         pip install pandas
